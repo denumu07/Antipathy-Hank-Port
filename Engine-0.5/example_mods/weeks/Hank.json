@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Murderface",
+			"Tricky",
+			[
+				0,
+				115,
+				0
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"weekCharacters": [
+		"",
+		"bf",
+		""
+	],
+	"storyName": "HankVSTRicky",
+	"weekName": "TrickyVsHANK",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

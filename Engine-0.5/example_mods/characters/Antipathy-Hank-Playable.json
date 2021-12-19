@@ -1,0 +1,133 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				281,
+				-167
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Anti-Hank Idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				279,
+				-169
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Anti-Hank M DOWN",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				236,
+				-82
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Anti-Hank M UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				338,
+				-120
+			],
+			"anim": "Block",
+			"fps": 24,
+			"name": "Anti-Hank Block",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				200,
+				-120
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "Anti-Hank M UP",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				267,
+				-180
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "Anti-Hank M DOWN",
+			"indices": []
+		},
+		{
+			"offsets": [
+				290,
+				-180
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "ANTI-Hank M LEFT"
+		},
+		{
+			"offsets": [
+				360,
+				-243
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "Anti-Hank M RIGHT"
+		},
+		{
+			"offsets": [
+				280,
+				-171
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHTmiss",
+			"loop": false,
+			"name": "ANTI-Hank M LEFT"
+		},
+		{
+			"offsets": [
+				360,
+				-240
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFTmiss",
+			"loop": false,
+			"name": "Anti-Hank M RIGHT"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/AntipathyHank",
+	"position": [
+		310,
+		20
+	],
+	"healthicon": "Hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		430,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

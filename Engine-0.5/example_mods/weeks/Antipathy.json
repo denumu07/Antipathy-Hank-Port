@@ -1,0 +1,39 @@
+{
+	"storyName": "Antipathy",
+	"hideFreeplay": false,
+	"weekBackground": "fight",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Battered",
+			"Hank",
+			[
+				255,
+				140,
+				0
+			]
+		],
+		[
+			"Overdrive",
+			"Hank",
+			[
+				255,
+				40,
+				0
+			]
+		]
+	],
+	"weekName": ""
+}

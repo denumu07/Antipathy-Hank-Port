@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-20,
+				-100
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "Block",
+			"loop": false,
+			"name": "Anti-Hank Block"
+		},
+		{
+			"offsets": [
+				281,
+				-147
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "idle",
+			"loop": true,
+			"name": "MAD-Hank Idle"
+		},
+		{
+			"offsets": [
+				300,
+				-133
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singLEFT",
+			"loop": false,
+			"name": "MAD-Hank M LEFT"
+		},
+		{
+			"offsets": [
+				230,
+				-210
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singRIGHT",
+			"loop": false,
+			"name": "MAD-Hank M RIGHT"
+		},
+		{
+			"offsets": [
+				292,
+				-149
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singDOWN",
+			"loop": false,
+			"name": "MAD-Hank M DOWN"
+		},
+		{
+			"offsets": [
+				346,
+				-52
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "singUP",
+			"loop": false,
+			"name": "MAD-Hank M UP"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/MADMAN",
+	"position": [
+		-180,
+		60
+	],
+	"healthicon": "Hank",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		0,
+		0
+	],
+	"camera_position": [
+		-230,
+		130
+	],
+	"sing_duration": 4,
+	"scale": 1
+}
